@@ -1,7 +1,7 @@
 # The transmission pattern of hand, foot and mouth disease 
-***The codes and data described here will be available soon.***
+***The code and data described here will be available soon.***
 
-## Codes
+## Code
 casedata_preprocess.R: the code preprocessing the case data.
 
 models.R: the code for the implementation of the models.
@@ -17,9 +17,9 @@ The original serological survey data.
 ### Other related data
 The population size data of Ho Chi Minh City, Vietnam.
 
-The preprocessed case data (codes available in casedata_preprocess.R).
+The preprocessed case data (code available in casedata_preprocess.R).
 
-The stan data as the input of the stan code to implement the models (codes available in models.R).
+The stan data as the input of the stan code to implement the models (code available in models.R).
 
 The index of the age-time-specific Force of Infection.
 
