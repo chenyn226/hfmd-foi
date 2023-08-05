@@ -27,4 +27,4 @@ The index of the age-time-specific Force of Infection.
 The model fitting results (output of models.R).
 
 ### Estimations
-The estimated Force of Infection, cases and seroprevalence from the models (output of result_analysis.R).
+The estimated Force of Infection, cases and seroprevalence from the models, which could be used to generate the figures (output of result_analysis.R).
