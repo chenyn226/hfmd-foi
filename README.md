@@ -10,7 +10,9 @@ result_analysis.R: the code generating estimations of Force of Infection, cases 
 
 ## Data
 ### Original data
-The original case data and serological survey data.
+The original case data.
+
+The original serological survey data.
 
 ### Other related data
 The population size data of Ho Chi Minh City, Vietnam.
