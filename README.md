@@ -1,5 +1,5 @@
 # The transmission pattern of hand, foot and mouth disease 
-The codes and data described here will be available soon.
+***The codes and data described here will be available soon.***
 
 ## Codes
 casedata_preprocess.R: the code preprocessing the case data.
