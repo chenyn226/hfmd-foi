@@ -1,5 +1,5 @@
 # The transmission pattern of hand, foot and mouth disease 
-***All code and data described here will be available soon.***
+Please cite as: Chen, Y., Nguyet, L. A., Qui, P. T., Hong, N. T. T., Ny, N. T. H., Anh, N. T., ... & Clapham, H. (2024). Age-time-specific transmission of hand-foot-and-mouth disease enterovirus serotypes in Vietnam: A catalytic model with maternal immunity. Epidemics, 100754
 
 ## Code
 casedata_preprocess.R: the code preprocessing the case data.
